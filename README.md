@@ -3,7 +3,7 @@
 **Command**:
 
 ```txt
-pandoc nodtes.md -o out.pdf
+pandoc review.md -o out.pdf
 ```
 
 TODO: turn to latex
