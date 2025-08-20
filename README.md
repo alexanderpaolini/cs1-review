@@ -1,9 +1,5 @@
 # CS1 Review
 
-**Command**:
+see `review.pdf`
 
-```txt
-pandoc nodtes.md -o out.pdf
-```
-
-TODO: turn to latex
+TODO: AVL Trees

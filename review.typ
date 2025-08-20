@@ -1,0 +1,25 @@
+#import "lib.typ": setup
+
+#show: setup.with()
+
+#include "content/00_intro.typ"
+#include "content/01_memory_management_in_c.typ"
+#include "content/02_order_analysis.typ"
+#include "content/03_summations.typ"
+#include "content/04_algorithm_design.typ"
+#include "content/05_recursion.typ"
+#include "content/06_recurrence_relations.typ"
+#include "content/07_linked_lists.typ"
+#include "content/08_stacks.typ"
+#include "content/09_queues.typ"
+#include "content/10_binary_tree.typ"
+#include "content/11_binary_search_trees.typ"
+#include "content/12_avl_trees.typ"
+#include "content/13_tries.typ"
+#include "content/14_heaps.typ"
+#include "content/15_hash_tables.typ"
+#include "content/16_sorting_algorithms.typ"
+#include "content/17_base_conversion.typ"
+#include "content/18_2s_complement.typ"
+#include "content/19_bitwise_operators.typ"
+#include "content/20_bit_masking.typ"
